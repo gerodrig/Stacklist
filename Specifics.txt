@@ -1,0 +1,33 @@
+Professional Color Palette
+Primary Colors
+Background Color: #FFFFFF (Pure White)
+Provides a clean and neutral backdrop that minimizes distractions.
+Primary Text Color: #2E2E2E (Dark Gray)
+Ensures excellent readability against the white background.
+Accent Colors
+Primary Accent: #1E88E5 (Blue)
+
+Use for primary buttons, links, and highlights. Blue is associated with trust, reliability, and focus.
+Secondary Accent: #43A047 (Green)
+
+Ideal for success messages, progress indicators, or confirming actions. Green conveys growth and success.
+Highlight Color: #FB8C00 (Deep Orange)
+
+Use sparingly to draw attention to important elements or call-to-action buttons.
+Neutral Colors
+Card Background: #FAFAFA (Very Light Gray)
+
+Offers subtle contrast against the white background to make flashcards stand out.
+Borders and Lines: #E0E0E0 (Light Gray)
+
+Use for dividing content or outlining cards and buttons.
+Error Color
+Error Accent: #E53935 (Red)
+Use for error messages or to indicate incorrect answers.
+Typography
+Font Family: 'Roboto', 'Helvetica Neue', 'Arial', sans-serif
+
+A clean, modern sans-serif font enhances readability and provides a professional look.
+Heading Text Color: #1B1B1B (Almost Black)
+
+Slightly darker than the primary text color to make headings stand out.
